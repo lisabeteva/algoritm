@@ -1,0 +1,20 @@
+.label {
+    display: block;
+    margin-top: 15px;
+}
+
+.input {
+    margin-top: 5px;
+}
+
+.button {
+    cursor: pointer;
+    display: block;
+    margin-top: 15px;
+    background-color: rgba(0, 225, 225, 0);
+}
+
+.button:hover {
+    background-color:black;
+    color:aliceblue;
+}
